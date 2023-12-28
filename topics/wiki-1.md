@@ -1,0 +1,3 @@
+# About wiki
+
+Start typing here...
