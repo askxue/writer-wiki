@@ -133,5 +133,9 @@ jobs:
 ```
 
 5. 设置正确的环境变量
-   ![image_2.png](image_2.png)
+
+![image_3.png](image_3.png)
+
+> 需配置正确的docker image版本。  [更新log](https://plugins.jetbrains.com/plugin/20158-writerside/docs/2023.11.232.10275.html)
+> {style="note"}
 
