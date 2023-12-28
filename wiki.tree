@@ -4,7 +4,7 @@
 
 <instance-profile id="wiki"
                   name="wiki"
-                  start-page="wiki-1.md">
-
-  <toc-element topic="wiki-1.md"/>
+                  start-page="hello-world.md">
+  <toc-element topic="hello-world.md"/>
+  <toc-element topic="Writerside使用手册.md"/>
 </instance-profile>
