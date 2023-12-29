@@ -1,5 +1,22 @@
 # Writerside使用手册
 
+## 插件
+
+> 一些好用的插件
+
+| 插件名称                | 说明   |
+|---------------------|------|
+| Atom Material Icons | 图标美化 |
+|                     |      |
+|                     |      |
+|                     |      |
+|                     |      |
+|                     |      |
+|                     |      |
+|                     |      |
+
+
+
 ## 发布到GitHub Pages
 
 [Jetbrains官网文档](https://www.jetbrains.com/help/writerside//deploy-docs-to-github-pages.html)
