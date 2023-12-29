@@ -4,18 +4,16 @@
 
 > 一些好用的插件
 
-| 插件名称                | 说明   |
-|---------------------|------|
-| Atom Material Icons | 图标美化 |
-|                     |      |
-|                     |      |
-|                     |      |
-|                     |      |
-|                     |      |
-|                     |      |
-|                     |      |
-
-
+|         插件名称          |       说明        |
+|:---------------------:|:---------------:|
+|  Atom Material Icons  |      图标美化       |
+|        .ignore        |    版本控制文件忽略     |
+| Chinese Language Pack |      中文语言包      |
+|    CodeGlance Pro     |     文件代码缩略图     |
+|   Material Theme UI   |      UI美化       |
+|  String Manipulation  | 字符大小写、驼峰、等等格式转换 |
+|      Translation      |       翻译        |
+|     Power Mode 3      | 敲代码的时候增加一些动画特效  |
 
 ## 发布到GitHub Pages
 
